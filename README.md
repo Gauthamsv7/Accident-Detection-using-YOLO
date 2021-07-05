@@ -1,6 +1,8 @@
 # Accident-Detection-using-YOLO
 An accident detection model is used in which Live CCTV footage is taken as a source.Used YOLOV4 as the detection model such that on detection an email alert will be generated to the respective emergency services.
 
+NOTE : There is no specific dataset for accident detection ,The dataset is prepared manually from the online sources itself.
+
 # Steps to be followed:
 
 1. Install the packages
@@ -33,6 +35,6 @@ As my PC is having low GPU to perform heavy Deeplearning methods.I have choosen 
 
 14 . Accident Detection is performd on Live Camera.(Here Laptop camera is taken as source if attacted to CCTV camera make some changes in the code).
 
+15.Aler will be generated
 
-
-# 15 ____________________________________________________-THE END-____________________________________________________________________
+                                                         -THE END-
