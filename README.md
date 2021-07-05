@@ -3,7 +3,7 @@ An accident detection model is used in which Live CCTV footage is taken as a sou
 
 # Steps to be followed:
 
-# 1. Install the packages
+1. Install the packages
  The respective packages to be installed.
  
 # 2. Mounting on Gdrive
